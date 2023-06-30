@@ -1,0 +1,6 @@
+[submodule "spleeter"]
+	path = spleeter
+	url = git@github.com:ian-ledig/spleeter.git
+[submodule "so-vits-svc-fork"]
+	path = so-vits-svc-fork
+	url = git@github.com:ian-ledig/so-vits-svc-fork.git

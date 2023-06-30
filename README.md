@@ -16,6 +16,8 @@ Les étapes d'entraînement de ces modèles ont été les suivantes :
   Votre navigateur ne prend pas en charge la lecture audio.
 </audio>
 
+[Générique de tchoupi chanté par Freeze Corleone](https://cdn.discordapp.com/attachments/774264633246351370/1118559102612807710/tchoupi-freezecorleone.wav)
+
 ## Découpage des étapes
 ### Récupération des fichiers audio
 Nous avons développé un programme python qui télécharge une vidéo demandée depuis youtube et la convertie en .mp3.
